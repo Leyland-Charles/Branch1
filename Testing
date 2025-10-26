@@ -1,0 +1,3 @@
+fname =input("Input your firstname:")
+lname =input("Input your lastname:")
+    print("Hi"+  ,str(fname)+ ""+ str(lname))
